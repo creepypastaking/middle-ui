@@ -9,3 +9,4 @@ A sleek and modern Discord theme featuring horizontal server list and optimized 
 2. Go to **Vencord Settings** → **Themes**
 3. Enable **"Enable Themes"**
 4. Paste this URL in **Online Themes**:
+ 
