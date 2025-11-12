@@ -1,0 +1,8 @@
+{
+  "name": "Middle UI",
+  "description": "A sleek and modern Discord theme featuring horizontal server list and optimized interface enhancements.",
+  "version": "1.0.0",
+  "author": "crppst",
+  "theme": "MiddleUI.theme.css",
+  "consent": "true",
+}
