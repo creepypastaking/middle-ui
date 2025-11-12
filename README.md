@@ -13,4 +13,4 @@ A sleek Discord theme with horizontal server list and optimized interface.
 4. Enable in client settings
 
 ### Option 2: Use GitHub URL (Auto-Update)
-1. [Copy this URL](https://raw.githubusercontent.com/creepypastaking/middle-ui/refs/heads/main/middleui.css)
+1. Copy this URL (https://raw.githubusercontent.com/creepypastaking/middle-ui/refs/heads/main/middleui.css)
