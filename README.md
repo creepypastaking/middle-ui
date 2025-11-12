@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/creepypastaking/middle-ui-theme/main/images/logo.png)
 # Middle UI - Discord Theme
 
 A sleek and modern Discord theme featuring horizontal server list and optimized interface enhancements for better user experience.
