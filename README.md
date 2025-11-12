@@ -1,12 +1,16 @@
 # Middle UI - Discord Theme
 
-A sleek and modern Discord theme featuring horizontal server list and optimized interface enhancements.
+A sleek Discord theme with horizontal server list and optimized interface.
 
-## Auto-Update Installation
+## Installation
 
-### For Vencord (Recommended)
-1. Open Discord Settings
-2. Go to **Vencord Settings** → **Themes**
-3. Enable **"Enable Themes"**
-4. Paste this URL in **Online Themes**:
- 
+### Option 1: Download from Releases (Manual)
+1. Go to [Releases page](https://github.com/creepypastaking/middle-ui-theme/releases)
+2. Download `MiddleUI.theme.css` from latest release
+3. Place in your themes folder:
+   - Vencord: `%appdata%/vencord/themes/`
+   - BetterDiscord: `%appdata%/BetterDiscord/themes/`
+4. Enable in client settings
+
+### Option 2: Use GitHub URL (Auto-Update)
+1. Copy this URL:
